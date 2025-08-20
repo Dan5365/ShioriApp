@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7179fd27-256a-4d42-b8d9-923800186c9d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1c93bc1d-c222-4f80-bf78-77af3f6e2715" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2yUGeM4hcbyxliUcYu6NXn8dL0k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/adilb/OneDrive/Desktop/ShioriApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adilb\OneDrive\Desktop\ShioriApp\myapp\routes" />
+      <recent name="C:\Users\adilb\OneDrive\Desktop\ShioriApp\myapp" />
+      <recent name="C:\Users\adilb\OneDrive\Desktop\ShioriApp\app\static" />
+      <recent name="C:\Users\adilb\OneDrive\Desktop\ShioriApp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adilb\OneDrive\Desktop\ShioriApp\myapp" />
+      <recent name="C:\Users\adilb\OneDrive\Desktop\ShioriApp\app" />
+      <recent name="C:\Users\adilb\OneDrive\Desktop\ShioriApp\templates" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7179fd27-256a-4d42-b8d9-923800186c9d" name="Changes" comment="" />
+      <created>1749881832623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749881832623</updated>
+      <workItem from="1749881833663" duration="3739000" />
+      <workItem from="1749887682712" duration="4281000" />
+      <workItem from="1749915383904" duration="4364000" />
+      <workItem from="1749984670819" duration="107000" />
+      <workItem from="1749984786558" duration="8110000" />
+      <workItem from="1749996066117" duration="1577000" />
+      <workItem from="1750088448903" duration="4892000" />
+      <workItem from="1750133414089" duration="3353000" />
+      <workItem from="1750173382529" duration="2141000" />
+      <workItem from="1750177565291" duration="1831000" />
+      <workItem from="1750247707149" duration="6000" />
+      <workItem from="1750247868689" duration="3323000" />
+      <workItem from="1750493968225" duration="7355000" />
+      <workItem from="1751637578974" duration="42000" />
+      <workItem from="1751637625117" duration="15000" />
+      <workItem from="1751894661514" duration="91000" />
+      <workItem from="1751894761024" duration="9000" />
+      <workItem from="1751894837368" duration="10000" />
+      <workItem from="1751894875688" duration="76000" />
+      <workItem from="1751894957774" duration="4000" />
+      <workItem from="1751895048562" duration="3727000" />
+      <workItem from="1752050679201" duration="3996000" />
+      <workItem from="1752152696925" duration="3049000" />
+      <workItem from="1752161824230" duration="125000" />
+      <workItem from="1752161957238" duration="964000" />
+      <workItem from="1753683655802" duration="1862000" />
+      <workItem from="1753706907864" duration="54000" />
+      <workItem from="1754983439982" duration="755000" />
+      <workItem from="1754984291575" duration="1655000" />
+      <workItem from="1754989375620" duration="2609000" />
+      <workItem from="1755687396578" duration="271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="startingDirectory" value="C:\Users\adilb\OneDrive\Desktop\ShioriApp\myapp" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ShioriApp$main.coverage" NAME="main Coverage Results" MODIFIED="1749882996417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App" />
+  </component>
+</project>
